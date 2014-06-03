@@ -5,6 +5,7 @@
 //  Created by Lau Philip on 6/2/14.
 //  Copyright (c) 2014 Ubersoft. All rights reserved.
 //
+//  This is the view controller implementation file
 
 #import "ViewController.h"
 
