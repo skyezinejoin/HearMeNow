@@ -15,6 +15,7 @@
     AVAudioRecorder *soundRecorder;
     AVAudioSession *session;
     NSString *soundPath;
+    NSString *soundUrge;
 }
 @end
 
